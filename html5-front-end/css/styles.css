@@ -1,0 +1,46 @@
+body{
+	background-color: #333;
+}
+a{
+	color:#fff;
+	text-decoration: none;
+}
+input {outline:none;}
+a:hover{
+	color:#fff;
+	text-decoration: none;
+}
+#header{
+	height:75px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.logo{
+	font-size:24pt;
+	line-height: 75px;
+}
+.search-icon{
+	
+}
+#search{	
+	background: #333;
+	height: 100%;
+	width: 100%;
+	border: none;
+	color: #fff;
+	font-size:12pt;
+	line-height: 60px;
+	padding:20px;
+}
+#search::selection{
+	background-color: #fff;
+	color:#000;
+
+}
+#search:focus{
+	background-color: #444;
+}
+.user-btn{
+	color:#fff;
+	font-size:24pt ;
+	line-height: 75px;
+}
