@@ -17,10 +17,9 @@ a:hover{
 .logo{
 	font-size:24pt;
 	line-height: 75px;
+	float: left;
 }
-.search-icon{
 	
-}
 #search{	
 	background: #333;
 	height: 100%;
@@ -43,4 +42,5 @@ a:hover{
 	color:#fff;
 	font-size:24pt ;
 	line-height: 75px;
+	float: right;
 }
