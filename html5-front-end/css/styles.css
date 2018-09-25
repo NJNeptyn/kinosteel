@@ -18,6 +18,7 @@ a:hover{
 	font-size:24pt;
 	line-height: 75px;
 	float: left;
+	user-select: none;
 }
 	
 #search{	
